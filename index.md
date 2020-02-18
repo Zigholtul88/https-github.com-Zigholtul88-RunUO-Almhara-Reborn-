@@ -1,9 +1,1 @@
-<!DOCTYPE html>
-<html>https://github.com/Zigholtul88/RunUO-Almhara-Reborn
-<body>
-<title>https://github.com/Zigholtul88/RunUO-Almhara-Reborn
-<title>https://github.com/Zigholtul88/RunUO-Almhara-Reborn
-<h1>Hello World</h1>
-<p>I'm hosted with GitHub Pages.</p>
-</body>
-</html>
+<html>https://github.com/Zigholtul88/RunUO-Almhara-Reborn</html>
